@@ -1,0 +1,17 @@
+[app/ui]
+version = 8.0.1
+modtime = 1583088358.986683000
+
+[app/launcher]
+version = 8.0.1
+modtime = 1583088358.989631000
+
+[views/coronavirus_dashboards]
+owner = admin
+version = 8.0.1
+modtime = 1583246376.454129000
+
+[inputs/monitor%3A%2F%2F%2FUsers%2Fbwalthall%2FDownloads%2FCOVID-19%2Fcsse_covid_19_data%2Fcsse_covid_19_daily_reports]
+owner = admin
+version = 8.0.1
+modtime = 1583089369.583364000

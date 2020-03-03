@@ -1,0 +1,120 @@
+"Country_Region","Province_State","Country_State",Lat,Long
+US,"Snohomish County, WA","US - Snohomish County, WA","48.033","-121.8339"
+US,"Portland, OR","US - Portland, OR","45.5051","-122.675"
+Qatar,,Qatar,"25.3548","51.1839"
+Monaco,,Monaco,"43.7333","7.4167"
+Luxembourg,,Luxembourg,"49.8153","6.1296"
+Ireland,,Ireland,"53.1424","-7.6921"
+Australia,"Western Australia","Australia - Western Australia","-31.9505","115.8605"
+Nigeria,,Nigeria,"9.082","8.6753"
+"New Zealand",,"New Zealand","-40.9006","174.886"
+Mexico,,Mexico,"23.6345","-102.5528"
+Lithuania,,Lithuania,"55.1694","23.8813"
+Iceland,,Iceland,"64.9631","-19.0208"
+Canada," Montreal, QC","Canada -  Montreal, QC","45.5017","-73.5673"
+Belarus,,Belarus,"53.7098","27.9534"
+"San Marino",,"San Marino","43.9424","12.4578"
+Netherlands,,Netherlands,"52.1326","5.2913"
+Estonia,,Estonia,"58.5953","25.0136"
+Denmark,,Denmark,"56.2639","9.5018"
+Romania,,Romania,"45.9432","24.9668"
+Norway,,Norway,"60.472","8.4689"
+"North Macedonia",,"North Macedonia","41.6086","21.7453"
+Greece,,Greece,"39.0742","21.8243"
+Georgia,,Georgia,"42.3154","43.3569"
+Brazil,,Brazil,"-14.235","-51.9253"
+Pakistan,,Pakistan,"30.3753","69.3451"
+Israel,,Israel,31,35
+Austria,,Austria,"47.5162","14.5501"
+Switzerland,,Switzerland,"46.8182","8.2275"
+Croatia,,Croatia,"45.1","15.2"
+Algeria,,Algeria,"28.0339","1.6596"
+Kuwait,,Kuwait,"29.5","47.75"
+Bahrain,,Bahrain,"26.0275","50.55"
+Afghanistan,,Afghanistan,33,65
+Oman,,Oman,21,57
+US,"Unassigned Location (From Diamond Princess)","US - Unassigned Location (From Diamond Princess)","35.4437","139.638"
+Iraq,,Iraq,33,44
+US,"Sacramento County, CA","US - Sacramento County, CA","38.4747","-121.3542"
+US,"Humboldt County, CA","US - Humboldt County, CA","40.745","-123.8695"
+Lebanon,,Lebanon,"33.8547","35.8623"
+US,"Lackland, TX (From Diamond Princess)","US - Lackland, TX (From Diamond Princess)","29.3829","-98.6134"
+Australia,"From Diamond Princess","Australia - From Diamond Princess","35.4437","139.638"
+US,"Travis, CA (From Diamond Princess)","US - Travis, CA (From Diamond Princess)","38.2721","-121.9399"
+US,"Omaha, NE (From Diamond Princess)","US - Omaha, NE (From Diamond Princess)","41.2545","-95.9758"
+Iran,,Iran,32,53
+Egypt,,Egypt,26,30
+US,"San Antonio, TX","US - San Antonio, TX","29.4241","-98.4936"
+US,"San Diego County, CA","US - San Diego County, CA","32.7157","-117.1611"
+Others,"Diamond Princess cruise ship","Others - Diamond Princess cruise ship","35.4437","139.638"
+US,"Madison, WI","US - Madison, WI","43.0731","-89.4012"
+Belgium,,Belgium,"50.8333",4
+US,"San Benito, CA","US - San Benito, CA","36.5761","-120.9876"
+US,"Boston, MA","US - Boston, MA","42.3601","-71.0589"
+Australia,"South Australia","Australia - South Australia","-34.9285","138.6007"
+Spain,,Spain,40,"-4"
+US,"Santa Clara, CA","US - Santa Clara, CA","37.3541","-121.9552"
+Sweden,,Sweden,63,16
+Russia,,Russia,60,90
+UK,,UK,55,"-3"
+Italy,,Italy,43,12
+Canada,"London, ON","Canada - London, ON","42.9849","-81.2453"
+India,,India,21,78
+Philippines,,Philippines,13,122
+"United Arab Emirates",,"United Arab Emirates",24,54
+Finland,,Finland,64,26
+Germany,,Germany,51,9
+"Sri Lanka",,"Sri Lanka",7,81
+Cambodia,,Cambodia,"11.55","104.9167"
+Australia,Queensland,"Australia - Queensland","-28.0167","153.4"
+Australia,Victoria,"Australia - Victoria","-37.8136","144.9631"
+Australia,"New South Wales","Australia - New South Wales","-33.8688","151.2093"
+US,"Los Angeles, CA","US - Los Angeles, CA","34.0522","-118.2437"
+US,"Orange, CA","US - Orange, CA","33.7879","-117.8531"
+Canada,"British Columbia","Canada - British Columbia","49.2827","-123.1207"
+Canada,"Toronto, ON","Canada - Toronto, ON","43.6532","-79.3832"
+Malaysia,,Malaysia,"2.5","112.5"
+Nepal,,Nepal,"28.1667","84.25"
+France,,France,47,2
+Vietnam,,Vietnam,16,108
+Singapore,,Singapore,"1.2833","103.8333"
+"Hong Kong","Hong Kong","Hong Kong - Hong Kong","22.3","114.2"
+Macau,Macau,"Macau - Macau","22.1667","113.55"
+US,"Tempe, AZ","US - Tempe, AZ","33.4255","-111.94"
+US,"Chicago, IL","US - Chicago, IL","41.8781","-87.6298"
+US,"Seattle, WA","US - Seattle, WA","47.6062","-122.3321"
+Taiwan,Taiwan,"Taiwan - Taiwan","23.7",121
+"South Korea",,"South Korea",36,128
+Japan,,Japan,36,138
+Thailand,,Thailand,15,101
+"Mainland China",Zhejiang,"Mainland China - Zhejiang","29.1832","120.0934"
+"Mainland China",Yunnan,"Mainland China - Yunnan","24.974","101.487"
+"Mainland China",Xinjiang,"Mainland China - Xinjiang","41.1129","85.2401"
+"Mainland China",Tibet,"Mainland China - Tibet","31.6927","88.0924"
+"Mainland China",Tianjin,"Mainland China - Tianjin","39.3054","117.323"
+"Mainland China",Sichuan,"Mainland China - Sichuan","30.6171","102.7103"
+"Mainland China",Shanxi,"Mainland China - Shanxi","37.5777","112.2922"
+"Mainland China",Shanghai,"Mainland China - Shanghai","31.202","121.4491"
+"Mainland China",Shandong,"Mainland China - Shandong","36.3427","118.1498"
+"Mainland China",Shaanxi,"Mainland China - Shaanxi","35.1917","108.8701"
+"Mainland China",Qinghai,"Mainland China - Qinghai","35.7452","95.9956"
+"Mainland China",Ningxia,"Mainland China - Ningxia","37.2692","106.1655"
+"Mainland China",Liaoning,"Mainland China - Liaoning","41.2956","122.6085"
+"Mainland China",Jilin,"Mainland China - Jilin","43.6661","126.1923"
+"Mainland China",Jiangxi,"Mainland China - Jiangxi","27.614","115.7221"
+"Mainland China",Jiangsu,"Mainland China - Jiangsu","32.9711","119.455"
+"Mainland China","Inner Mongolia","Mainland China - Inner Mongolia","44.0935","113.9448"
+"Mainland China",Hunan,"Mainland China - Hunan","27.6104","111.7088"
+"Mainland China",Hubei,"Mainland China - Hubei","30.9756","112.2707"
+"Mainland China",Henan,"Mainland China - Henan","33.88202","113.614"
+"Mainland China",Heilongjiang,"Mainland China - Heilongjiang","47.862","127.7615"
+"Mainland China",Hebei,"Mainland China - Hebei","38.0428","114.5149"
+"Mainland China",Hainan,"Mainland China - Hainan","19.1959","109.7453"
+"Mainland China",Guizhou,"Mainland China - Guizhou","26.8154","106.8748"
+"Mainland China",Guangxi,"Mainland China - Guangxi","23.8298","108.7881"
+"Mainland China",Guangdong,"Mainland China - Guangdong","23.3417","113.4244"
+"Mainland China",Gansu,"Mainland China - Gansu","36.0611","103.8343"
+"Mainland China",Fujian,"Mainland China - Fujian","26.0789","117.9874"
+"Mainland China",Chongqing,"Mainland China - Chongqing","30.0572","107.874"
+"Mainland China",Beijing,"Mainland China - Beijing","40.1824","116.4142"
+"Mainland China",Anhui,"Mainland China - Anhui","31.8257","117.2264"
