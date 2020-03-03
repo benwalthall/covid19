@@ -1,5 +1,6 @@
 <nav search_view="search" color="#DC4E41">
-  <view name="search" default='true' />
+  <view name="coronavirus_dashboards" default='true' />	
+  <view name="search" />
   <view name="datasets" />
   <view name="reports" />
   <view name="alerts" />
