@@ -16,4 +16,4 @@ Run a git pull on the COVID-19 directory to update the data.
 
 Maps+ for Splunk: https://splunkbase.splunk.com/app/3124/
 
-![Image of Dashboard](https://raw.githubusercontent.com/benwalthall/covid19/static/CoronavirusDashboards.png)
+![Image of Dashboard](https://github.com/benwalthall/covid19/blob/master/static/CoronavirusDashboards.png?raw=true)
