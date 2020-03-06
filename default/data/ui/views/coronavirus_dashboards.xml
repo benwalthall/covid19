@@ -120,8 +120,6 @@
         <title>Top 10 Regions</title>
         <search base="base">
           <query>
-| eval Country_State = if(isnull(Province_State), Country_Region,  Country_Region + " - " + Province_State)
-| lookup world_coords.csv Country_State
 | fillnull value=0 
 | replace "0" WITH "" IN Province_State 
 | stats max(Confirmed) as total_confirmed, max(Deaths) as total_death, max(Recovered) as total_recovered by Province_State, Country_Region
@@ -317,7 +315,8 @@
           <query>index="covid_19" sourcetype="covid19-report" host="jh-covid-reports"
 | eval Country_State = if(isnull(Province_State), Country_Region,  Country_Region + " - " + Province_State)
 | lookup world_coords.csv Country_State
-| rename Lat as latitude, Long as longitude
+| eval latitude = coalesce(Latitude, Lat)
+| eval longitude = coalesce(Longitude, Long)
 | fillnull value=0
 | eval description = "&lt;b&gt;" + Country_State + "&lt;/b&gt;&lt;span&gt;&lt;p&gt;Confirmed: " + Confirmed + "&lt;/p&gt;&lt;p&gt;Recovered:" + Recovered + "&lt;/p&gt;&lt;p&gt;Deaths:" + Deaths + "&lt;/p&gt;&lt;/span&gt;"
 | table latitude, longitude, description | dedup latitude, longitude</query>
@@ -408,7 +407,8 @@
           <query>index="covid_19" sourcetype="covid19-report" host="jh-covid-reports"
 | eval Country_State = if(isnull(Province_State), Country_Region,  Country_Region + " - " + Province_State)
 | lookup world_coords.csv Country_State
-| rename Lat as latitude, Long as longitude
+| eval latitude = coalesce(Latitude, Lat)
+| eval longitude = coalesce(Longitude, Long)
 | fillnull value=0
 | eval description = "&lt;b&gt;" + Country_State + "&lt;/b&gt;&lt;span&gt;&lt;p&gt;Confirmed: " + Confirmed + "&lt;/p&gt;&lt;p&gt;Recovered:" + Recovered + "&lt;/p&gt;&lt;p&gt;Deaths:" + Deaths + "&lt;/p&gt;&lt;/span&gt;", markerType="circle", layerGroup="default", circleColor="#f442c8", circleRadius=log(Confirmed)*10, circleOpacity="0.2", circleStroke="false"
 | table latitude, longitude, description, markerType,layerGroup,circleColor,circleRadius,cirlceOpacity,circleStroke</query>
@@ -502,7 +502,8 @@
           <query>
 | eval Country_State = if(isnull(Province_State), Country_Region,  Country_Region + " - " + Province_State)
 | lookup world_coords.csv Country_State
-| rename Lat as latitude, Long as longitude
+| eval latitude = coalesce(Latitude, Lat)
+| eval longitude = coalesce(Longitude, Long)
 | fillnull value=0
 | replace "Mainland China" WITH "China" IN Country_Region
 | stats max(Confirmed) as total_confirmed by Country_Region | geom geo_countries featureIdField=Country_Region | eval total_confirmed = log(total_confirmed)</query>
